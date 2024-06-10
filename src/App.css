@@ -70,7 +70,7 @@ h1 {
 .square {
   width: 120px;
   height: 120px;
-  background-color: #ffffff;
+  opacity: 0.6;
   border: 2px solid #000000;
   font-size: 50px;
   font-weight: bold;
