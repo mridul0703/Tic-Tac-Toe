@@ -1,6 +1,6 @@
 <h2 align="center">
   Tic-Tac-Toe Game - 
-  <a href="https://tic-tac-toc-mridul.vercel.app/" target="_blank">TIc Tac Toe/a><br /><br />
+  <a href="https://tic-tac-toc-mridul.vercel.app/" target="_blank">TIc Tac Toe</a><br /><br />
   <p>Welcome to my Tic-Tac-Toe game!</p>
 </h2>
 
