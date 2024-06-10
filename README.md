@@ -1,11 +1,11 @@
 <h2 align="center">
   Tic-Tac-Toe Game - 
-  <a href="https://mridul0703.vercel.app/" target="_blank">mridul.app</a><br /><br />
+  <a href="https://tic-tac-toc-mridul.vercel.app/" target="_blank">TIc Tac Toe/a><br /><br />
   <p>Welcome to my Tic-Tac-Toe game!</p>
 </h2>
 
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img.png" />
+  <img alt="Demo" src="./Images/demo.png" />
 </div>
 
 
@@ -25,9 +25,9 @@ This project is a simple yet fun Tic-Tac-Toe game built with React.js. Enjoy pla
 This Tic-Tac-Toe game was built using the following technologies:
  
 - React.js
-- Node.js
-- Express.js
+- JavaScript
 - CSS3
+- HTML
 - VsCode
 - Vercel
 
